@@ -1,6 +1,6 @@
 ![Oh! (1)](https://github.com/user-attachments/assets/bf802ccc-21cb-4064-9290-8d52df8fb7e1)
 
-I'm a Junior Computer Science Student and a Software Developer passionate about creating scalable and efficient solutions. Nothing beats solving a problem I've been stuck on for ages besides seeing my work enrich the lives of people who use it!
+I'm a Junior Computer Science Student and a Software Developer passionate about creating scalable and efficient solutions. Nothing beats solving a problem I've been stuck on for ages, besides seeing my work enrich the lives of people who use it.
 
 Aside from creating solutions to make life just a bit easier, you might catch me:
 - Traveling the world ✈️
